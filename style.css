@@ -1,0 +1,27 @@
+*
+{
+  font-family: Helvetica, sans-serif;
+}
+
+#header
+{
+	font-weight: bold;
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+}
+
+h1, h2
+{
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+pre code *
+{
+	font-family: monospace !important;
+}
+
+p
+{
+	font-size: 14px;
+}
